@@ -1,0 +1,7 @@
+#Tue Sep 05 01:03:52 IST 2017
+base.0=C\:\\Users\\abhinav jha\\AndroidStudioProjects\\LiveNews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4509e8663592926547c1eafd5b45912fae89543a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\abhinav jha\\AndroidStudioProjects\\LiveNews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6ea4744e5881ad37e400cd0b7ba9b62c1f211970\\classes.dex
+base.1=C\:\\Users\\abhinav jha\\AndroidStudioProjects\\LiveNews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6ea4744e5881ad37e400cd0b7ba9b62c1f211970
+file.0=C\:\\Users\\abhinav jha\\AndroidStudioProjects\\LiveNews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4509e8663592926547c1eafd5b45912fae89543a\\classes.dex

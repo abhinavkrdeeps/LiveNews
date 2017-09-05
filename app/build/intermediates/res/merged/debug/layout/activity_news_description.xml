@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#000000"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.abhinav.livenews.NewsDescription">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/text_title"
+        android:layout_marginTop="10dp"
+        android:textColor="#fafafa"/>
+         <ImageView
+             android:layout_width="350dp"
+             android:layout_height="300dp"
+             android:layout_marginLeft="10dp"
+             android:id="@+id/image_description"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="30sp"
+                android:id="@+id/text_description"
+                android:layout_marginLeft="10dp"
+                android:textColor="#fafafa"
+                android:fontFamily="sans-serif-condensed"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
